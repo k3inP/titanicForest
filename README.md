@@ -1,5 +1,5 @@
 # titanicForest
-multi-label binary classification problem, dataset from kaggle, random forest implementation
+multi-label binary classification problem, dataset from kaggle, logistic regression and random forest implementation
 
 Problem:
 to complete the analysis of what sorts of people were likely to survive in the sinking of the Titanic by applying the tools of machine learning to predict which passengers survived the tragedy.
